@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:language>en</dc:language>
+    <dc:title>Portal: A Dataspace Retrieval</dc:title>
+    <dc:creator opf:file-as="Swigart, Rob" opf:role="aut">Rob Swigart</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (4.99.4) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Unknown</dc:publisher>
+    <dc:subject>Unknown</dc:subject>
+    <meta name="calibre:timestamp" content="2020-03-23T02:17:24.293662+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">341ce4d8-61f0-4e37-9ae7-95341b558a00</dc:identifier>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover_image.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="8212.xhtml" id="8212" media-type="application/xhtml+xml"/>
+    <item href="8253.xhtml" id="8253" media-type="application/xhtml+xml"/>
+    <item href="8453.xhtml" id="8453" media-type="application/xhtml+xml"/>
+    <item href="8757.xhtml" id="8757" media-type="application/xhtml+xml"/>
+    <item href="8920.xhtml" id="8920" media-type="application/xhtml+xml"/>
+    <item href="9092.xhtml" id="9092" media-type="application/xhtml+xml"/>
+    <item href="9452.xhtml" id="9452" media-type="application/xhtml+xml"/>
+    <item href="9757.xhtml" id="9757" media-type="application/xhtml+xml"/>
+    <item href="9784.xhtml" id="9784" media-type="application/xhtml+xml"/>
+    <item href="9788.xhtml" id="9788" media-type="application/xhtml+xml"/>
+    <item href="9794.xhtml" id="9794" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="8212"/>
+    <itemref idref="8253"/>
+    <itemref idref="8453"/>
+    <itemref idref="8757"/>
+    <itemref idref="8920"/>
+    <itemref idref="9092"/>
+    <itemref idref="9452"/>
+    <itemref idref="9757"/>
+    <itemref idref="9784"/>
+    <itemref idref="9788"/>
+    <itemref idref="9794"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Title Page" type="cover"/>
+  </guide>
+</package>
