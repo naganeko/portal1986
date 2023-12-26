@@ -1,10 +1,11 @@
 .body {
     display: block;
-    font-size: 1.125em;
-    line-height: 1.2;
-    padding-left: 0;
-    padding-right: 0;
-    margin: 0 5pt
+    font-size:150%;
+    /*font-size: 1.125em;*/
+    /*line-height: 1.2;*/
+    /*padding-left: 0;*/
+    /*padding-right: 0;*/
+    /*margin: 0 5pt*/
     }
 .bs {
     border-bottom-color: rgb(0, 0, 0);
